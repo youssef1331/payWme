@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\My projects\\myfirstproject\\payment_methode\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6d4038753f47d9d68da159004ce12418\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\My projects\\myfirstproject\\payment_methode\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6d4038753f47d9d68da159004ce12418\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\My projects\\myfirstproject\\payment_methode\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6d4038753f47d9d68da159004ce12418\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\My projects\\myfirstproject\\payment_methode\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6d4038753f47d9d68da159004ce12418\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

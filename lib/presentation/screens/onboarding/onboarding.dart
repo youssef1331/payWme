@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:payment_methode/data/onboardingmodel/on_boarding_model.dart';
-import 'package:payment_methode/presentation/screens/login/login.dart';
+import 'package:payment_methode/presentation/screens/typesOfAccount/typeofaccount.dart';
 import 'package:payment_methode/presentation/shared/remote/cache_helper.dart';
 import 'package:payment_methode/presentation/widget/onboarding_body/onboarding_body.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
@@ -42,7 +42,7 @@ class _OnBoardingState extends State<OnBoarding> {
         if (value) {
           Navigator.pushReplacement(
             context,
-            MaterialPageRoute(builder: (context) => const LogIn()),
+            MaterialPageRoute(builder: (context) => const TypesOfAccoun()),
           );
         }
       });

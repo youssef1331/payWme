@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:payment_methode/logic/cubit/cubits/homecubit/home_cubbit.dart';
 import 'package:payment_methode/logic/cubit/states/homestate/home_state.dart';
+import 'package:payment_methode/presentation/screens/services/payment_servcies.dart';
 import 'package:payment_methode/presentation/shared/local/constance.dart';
 import 'package:payment_methode/presentation/widget/Buttons/elvated_button.dart';
+import 'package:payment_methode/presentation/widget/navigattion/navigation.dart';
 
 import '../../../globals.dart';
 
@@ -101,7 +103,9 @@ class Servcies extends StatelessWidget {
                       SizedBox(
                         height: 60,
                         child: DefaultElevatedButton(
-                          pressed: () {},
+                          pressed: () {
+                            navigatTo(context, const PaymentServcies());
+                          },
                           text: 'Process',
                         ),
                       ),

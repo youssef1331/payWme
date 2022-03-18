@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\My projects\\myfirstproject\\payment_methode\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6d4038753f47d9d68da159004ce12418\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\My projects\\myfirstproject\\payment_methode\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6d4038753f47d9d68da159004ce12418\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\My projects\\myfirstproject\\payment_methode\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6d4038753f47d9d68da159004ce12418\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\My projects\\myfirstproject\\payment_methode\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6d4038753f47d9d68da159004ce12418\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\My projects\\myfirstproject\\payment_methode\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6d4038753f47d9d68da159004ce12418\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]

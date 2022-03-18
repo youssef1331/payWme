@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
-import 'package:payment_methode/presentation/screens/login/login.dart';
+import 'package:payment_methode/presentation/screens/aboutus/aboutus.dart';
+import 'package:payment_methode/presentation/screens/account/account.dart';
+import 'package:payment_methode/presentation/screens/pesonalLogIn/personal_login.dart';
 import 'package:payment_methode/presentation/shared/remote/cache_helper.dart';
 import 'package:payment_methode/presentation/widget/navigattion/navigation.dart';
 
@@ -53,31 +55,24 @@ class NavDrawer extends StatelessWidget {
                 color: Color.fromRGBO(0, 75, 125, 1),
               ),
             ),
-            onTap: () => {Navigator.of(context).pop()},
-          ),
-          ListTile(
-            leading: const Icon(Icons.settings, size: 24),
-            title: const Text(
-              'Settings',
-              style: TextStyle(
-                fontSize: 16,
-                fontWeight: FontWeight.bold,
-                color: Color.fromRGBO(0, 75, 125, 1),
+            onTap: () => {
+              navigatTo(
+                context,
+                const Account(),
               ),
-            ),
-            onTap: () => {Navigator.of(context).pop()},
+            },
           ),
           ListTile(
             leading: const Icon(MdiIcons.information, size: 24),
             title: const Text(
-              'About',
+              'About Us',
               style: TextStyle(
                 fontSize: 16,
                 fontWeight: FontWeight.bold,
                 color: Color.fromRGBO(0, 75, 125, 1),
               ),
             ),
-            onTap: () => {Navigator.of(context).pop()},
+            onTap: () => {navigatTo(context, const AboutUs())},
           ),
           Padding(
             padding: const EdgeInsets.all(10.0),

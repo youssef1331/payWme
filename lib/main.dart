@@ -3,8 +3,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:payment_methode/logic/bloc_observer/bloc_observer.dart';
 import 'package:payment_methode/logic/cubit/cubits/homecubit/home_cubbit.dart';
 import 'package:payment_methode/presentation/screens/layout/layout.dart';
-import 'package:payment_methode/presentation/screens/login/login.dart';
 import 'package:payment_methode/presentation/screens/onboarding/onboarding.dart';
+import 'package:payment_methode/presentation/screens/typesOfAccount/typeofaccount.dart';
 import 'package:payment_methode/presentation/shared/local/constance.dart';
 import 'package:payment_methode/presentation/shared/remote/cache_helper.dart';
 import 'package:payment_methode/presentation/shared/style/light_theme.dart';
@@ -22,7 +22,7 @@ void main() async {
     if (uId != null) {
       screSt = const LayoutScreen();
     } else {
-      screSt = const LogIn();
+      screSt = const TypesOfAccoun();
     }
   } else {
     screSt = const OnBoarding();

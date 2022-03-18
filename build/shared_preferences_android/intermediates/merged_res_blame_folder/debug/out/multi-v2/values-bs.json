@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\My projects\\myfirstproject\\payment_methode\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\values-bs\\values-bs.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6d4038753f47d9d68da159004ce12418\\transformed\\core-1.6.0\\res\\values-bs\\values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\My projects\\myfirstproject\\payment_methode\\build\\shared_preferences_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6d4038753f47d9d68da159004ce12418\\transformed\\core-1.6.0\\res\\values-bs\\values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
